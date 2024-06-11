@@ -8,7 +8,7 @@ const Home = () => {
     <div className="h-screen grid place-items-center
     bg-gradient-to-b from-slate-900 to-slate-800">
 
-      <a className="hover:animate-buttonActive" href="https://www.youtube.com/live/CKHBWXffPlg">
+      <a className="hover:animate-buttonActive" target="_blank" href="https://www.youtube.com/live/CKHBWXffPlg">
 
         <div className="w-auto mx-6 rounded-3xl overflow-hidden
         shadow-2xl shadow-slate-900/80">
