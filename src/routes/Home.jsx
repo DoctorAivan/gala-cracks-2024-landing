@@ -125,7 +125,7 @@ const Home = () => {
 
       <div className="mx-auto w-full md:w-[1080px]">
 
-        <a target="_blank" href="https://www.youtube.com/live/CKHBWXffPlg">
+        <a target="_blank" href="https://www.youtube.com/live/TwXkCrqQn3U">
           <div className="w-auto mx-auto overflow-hidden
           mb-5
           md:mt-8 md:mb-8 md:rounded-2xl 
