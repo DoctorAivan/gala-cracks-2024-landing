@@ -25,3 +25,8 @@ body
     @apply
     bg-slate-800
 }
+
+.bg-gold
+{
+    background: #ffac63;
+}
