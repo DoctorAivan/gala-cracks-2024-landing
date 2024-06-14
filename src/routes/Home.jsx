@@ -120,7 +120,7 @@ const Home = () => {
   ]
 
   return (
-    <div className="h-screen w-full grid 
+    <div className="w-full grid 
     bg-gradient-to-b from-slate-900 to-slate-800">
 
       <div className="mx-auto w-full md:w-[1080px]">
